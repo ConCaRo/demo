@@ -1,14 +1,3322 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"albums": [{
+		"name": "Album 1",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/yellowstone-united_states-17.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 2",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/victoria-australia-31.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 3",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/valencia-spain-82.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 4",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/xigaze,_tibet-china-30.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 5",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/utah-united_states-96.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 6",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/utah-united_states-15.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 7",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/utah-united_states-88.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 8",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/umm_al_quwain-united_arab_emirates-13.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 9",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/texas-united_states-26.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 10",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/siuslaw_national_forest-united_states-92.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 11",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/the_minquiers-channel_islands-69.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 12",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/texas-united_states-84.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 13",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/tabuaeran-kiribati-50.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 14",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/stanislaus_river-united_states-61.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 15",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/s?ehitkamil-turkey-72.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 16",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/salinas_grandes-argentina-25.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 17",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/shadegan_refuge-iran-12.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 18",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/san_pedro_de_atacama-chile-43.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 19",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/ragged_island-the_bahamas-64.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 20",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/qinghai_lake-china-80.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 21",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/qesm_al_wahat_ad_dakhlah-egypt-56.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 22",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/riedstadt-germany-42.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 23",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/redwood_city-united_states-48.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 24",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/nyingchi,_tibet-china-98.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 25",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/ngari,_tibet-china-57.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 26",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/pozoantiguo-spain-99.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 27",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/ningaloo-australia-73.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 28",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/niederzier-germany-79.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 29",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/olympic_dam-australia-65.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	{
+		"name": "Album 30",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/peedamulla-australia-40.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	}],
+	"album": {
+		"name": "Album 30",
+		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/peedamulla-australia-40.jpg",
+		"artists": [{
+			"name": "Artist 0",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 1",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 2",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 3",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 4",
+			"date_of_birth": "123-123-23"
+		},
+		{
+			"name": "Artist 5",
+			"date_of_birth": "123-123-23"
+		}],
+		"songs": [{
+			"name": "Song 0",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 1",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 2",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 3",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 4",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		},
+		{
+			"name": "Song 5",
+			"singer": {
+				"name": "Singer 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"artist": {
+				"name": "Artist 1",
+				"date_of_birth": "10-20-1900"
+			},
+			"release_date": "123-123-23",
+			"lyric": "Hello lyric"
+		}],
+		"release_date": "123-123-23"
+	},
+	"profile": {
+		"name": "typicode"
+	}
 }
