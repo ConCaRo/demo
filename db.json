@@ -634,7 +634,8 @@
 			},
 			"release_date": "123-123-23",
 			"lyric": "Hello lyric"
-		}]"release_date": "123-123-23"
+		}],
+		"release_date": "123-123-23"
 	},
 	{
 		"name": "Album 30",
@@ -657,7 +658,8 @@
 			"lyric": "Hello lyric"
 		}],
 		"release_date": "123-123-23"
-	}]"album": {
+	}],
+	"album": {
 		"name": "Album 30",
 		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/peedamulla-australia-40.jpg",
 		"artists": [{
@@ -683,7 +685,8 @@
 		{
 			"name": "Artist 5",
 			"date_of_birth": "123-123-23"
-		}]"songs": [{
+		}],
+		"songs": [{
 			"name": "Song 0",
 			"singer": {
 				"name": "Singer 1",
@@ -760,7 +763,8 @@
 			},
 			"release_date": "123-123-23",
 			"lyric": "Hello lyric"
-		}]"release_date": "123-123-23"
+		}],
+		"release_date": "123-123-23"
 	},
 	"profile": {
 		"name": "typicode"
