@@ -1,98 +1,13 @@
 {
-	"albums": [{
+	"albums": [[{
 		"name": "Album 1",
 		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/yellowstone-united_states-17.jpg",
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -112,94 +27,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -219,94 +49,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -326,94 +71,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -433,94 +93,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -540,94 +115,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -647,94 +137,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -754,94 +159,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -861,94 +181,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -968,94 +203,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -1075,94 +225,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -1182,94 +247,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -1289,94 +269,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -1396,94 +291,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -1503,94 +313,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -1610,94 +335,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -1717,94 +357,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -1824,94 +379,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -1931,94 +401,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -2038,94 +423,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -2145,94 +445,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -2252,94 +467,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -2359,94 +489,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -2466,94 +511,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -2573,94 +533,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -2680,94 +555,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -2787,94 +577,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -2894,94 +599,9 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
 			"singer": {
 				"name": "Singer 1",
 				"date_of_birth": "10-20-1900"
@@ -3001,26 +621,6 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
@@ -3034,73 +634,7 @@
 			},
 			"release_date": "123-123-23",
 			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		}],
-		"release_date": "123-123-23"
+		}]"release_date": "123-123-23"
 	},
 	{
 		"name": "Album 30",
@@ -3108,26 +642,6 @@
 		"artists": [{
 			"name": "Artist 0",
 			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 1",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 2",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 3",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 4",
-			"date_of_birth": "123-123-23"
-		},
-		{
-			"name": "Artist 5",
-			"date_of_birth": "123-123-23"
 		}],
 		"songs": [{
 			"name": "Song 0",
@@ -3141,75 +655,9 @@
 			},
 			"release_date": "123-123-23",
 			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 1",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 2",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 3",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 4",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
-		},
-		{
-			"name": "Song 5",
-			"singer": {
-				"name": "Singer 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"artist": {
-				"name": "Artist 1",
-				"date_of_birth": "10-20-1900"
-			},
-			"release_date": "123-123-23",
-			"lyric": "Hello lyric"
 		}],
 		"release_date": "123-123-23"
-	}],
-	"album": {
+	}]"album": {
 		"name": "Album 30",
 		"cover": "https://raw.githubusercontent.com/mikepenz/earthview-wallpapers/develop/thumb/peedamulla-australia-40.jpg",
 		"artists": [{
@@ -3235,8 +683,7 @@
 		{
 			"name": "Artist 5",
 			"date_of_birth": "123-123-23"
-		}],
-		"songs": [{
+		}]"songs": [{
 			"name": "Song 0",
 			"singer": {
 				"name": "Singer 1",
@@ -3313,8 +760,7 @@
 			},
 			"release_date": "123-123-23",
 			"lyric": "Hello lyric"
-		}],
-		"release_date": "123-123-23"
+		}]"release_date": "123-123-23"
 	},
 	"profile": {
 		"name": "typicode"
